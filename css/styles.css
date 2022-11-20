@@ -178,10 +178,3 @@ p {
     transform: rotate(0);
   }
 }
-@media (max-width: 500px) {
-  body {
-    font-family: "Montserrat";
-    text-align: center;
-    font-size: 45%;
-  }
-}
